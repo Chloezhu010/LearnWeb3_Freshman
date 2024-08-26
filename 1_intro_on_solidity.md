@@ -4,6 +4,7 @@
 2. State: outside a function to maintain global state within the contract, stored on chain
 3. Global: info about the chain
 
+## Different variables
 1. Uint: unsigned integer, non-negative integers
 
     uint8: 0 to 255
